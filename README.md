@@ -10,7 +10,7 @@ My vision for this project was to create an open-source frame design that could 
 ![](Images/KumoBuilds.png)
 
 ## Contents:
----
+
 1. [Elements](#elements)
 2. [Design](#design)
 3. [Recommended Setup](#recommended-setup)
@@ -18,7 +18,7 @@ My vision for this project was to create an open-source frame design that could 
 5. [Changelog/Versions](#Changelog/Versions)
 
 ## Elements
----
+
 - Open Source as CC-BY 4.0
 - Designed as a more robust toothpick with AIO or other light stacks. Primarily the HDZero AIO15
 - Squished X geometry (4mm stubbier to get the props a bit less in frame)
@@ -26,7 +26,7 @@ My vision for this project was to create an open-source frame design that could 
 - Rigid Design
 - Camera mount designed for 25/35deg HDZero Lux. Also compatible with the [Kayoumini camera mounts ](https://www.printables.com/model/1330393-kayoumini-camera-tpu-print-support)
 ## Design
----
+
 ### Frame Design
 Cutout for HDZero AIO15 to reduce height while also keeping ports accessible.
 ![](Images/HDZeroAIO15_Cutout.jpg)
@@ -63,7 +63,7 @@ Top plate cut from 1.5mm CF 6k 2x2 twill. Designed with cut out towards the fron
 ![](Images/TopPlate.jpg)
 
 ## Recommended-Setup
----
+
 > [!NOTE]
 > *At this size, every gram counts, so tradeoffs must be made to manage durability, range, battery/flight time and flight dynamics.* 
 
@@ -85,12 +85,16 @@ Key considerations for building:
 ## Videos
 
 Kumo Frame analysis for stress concentration: (front impact)
-![](Images/StarFrameAnalysis.mp4)
+![](Images/StarFrameAnalysis.gif)
 
 Kumo Frame printed first flight
+
 [![First Flight of 3D print|697](http://img.youtube.com/vi/SoQ7cqYJ5XA/0.jpg)](http://www.youtube.com/watch?v=SoQ7cqYJ5XA)
+
 Kumo Frame CNC cut on Millennium Mill
+
 [![CNC Cut Stubby|697](http://img.youtube.com/vi/ESLiF3WcUNc/0.jpg)](http://www.youtube.com/watch?v=ESLiF3WcUNc)
+
 ## Changelog/Versions
 
 [Google sheet of various versions with specs, components and photos](https://docs.google.com/spreadsheets/d/1-7FYr2rQ0BzAxG1OKXEforiyXhu9mfht/edit?usp=sharing&ouid=105765567366009761045&rtpof=true&sd=true)
