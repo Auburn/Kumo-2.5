@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/kumoishibo/Kumo-2.5/blob/main/Images/KumoLogo.png?raw=true" width=30% alt="Kumo Logo" ></div>
-# Kumo 2.5"
----
+
+# Kumo 2.5
 A 2.5" drone frame. Star shaped dual arm design available both in printable and carbon fiber cut files in [[STL]] and [[CAD]] formats.
 
 This project was born out of the desire for building a robust freestyle 2.5" 2S quad built from the ground up around the HDZero AIO15 and Lux camera. Something with a bit more power and wind resilience than a whoop, but still relatively quiet and survivable to crashes. Some of the mono-body frames seem to have lightweight arms that are a bit flimsy, thus the star shape was opted in the newer versions of the Kumo frame. 
@@ -9,7 +9,7 @@ My vision for this project was to create an open-source frame design that could 
 
 ![](Images/KumoBuilds.png)
 
-## Contents:
+## Contents
 
 1. [Elements](#elements)
 2. [Design](#design)
