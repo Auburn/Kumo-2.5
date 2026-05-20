@@ -87,17 +87,17 @@ Key considerations for building:
 Betaflight defaults were fairly decent for me, but minor tweaks have helped improve propwash. Carbon fiber frame also was less susceptible to vibrations and required less filters.
 
 PID profile settings are almost stock. I used PIDToolbox and suggestions from [this video](https://www.youtube.com/watch?v=ehvQm8Rqrzk). Angle limit was set to 30 during auto-wobble script.
-![](PID_Profile.png)
+![](Images/PID_Profile.png)
 
 For the filter, removing the first lowpass and tightening the notch filters helped reduce delay while still cleaning the noise.
-![](FilterSettings.png)
+![](Images/FilterSettings.png)
 
 I also set the filter weights and q value to the following:
 `rpm_filter_weights = 100,60,70`
 `rpm_filter_q = 1000`
 
 Resulting first harmonics were still present, with **Roll** requiring a bit more attention, yet fairly solid from what I can tell.
-![](NoiseFiltering.png)
+![](Images/NoiseFiltering.png)
 ## Videos
 
 Kumo Frame analysis for stress concentration: (front impact)
