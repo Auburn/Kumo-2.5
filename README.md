@@ -124,6 +124,8 @@ List of file versions in repo:
 	- Kumo ChunkyFrog (more material, more cutouts, poor access to usb port)
 	- Kumo Offaxis (interesting attempt to merge top/bottom plate with flipped parts. Too heavy, poor skeletonization, no top/bottom usb access, no battery strap)
 ## Changelog
+- 5-21-2026: Added Git Discussion, fixed M2 clearance on bottom AIO hole (Thank you Auburn!)
+- 5-19-2026: Completed Documentation V1 and published to Reddit
 - 5-5-2026: CNC cut stubby frame (youtube video above)
 - 4-24-2026: [Tested with 3S... a bit scary](https://www.reddit.com/r/fpv/comments/1suqytk/probably_wasnt_meant_for_3s/)
 - 4-20-2026: First flight of Star shaped Kumo frame (youtube video above)
